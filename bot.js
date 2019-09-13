@@ -17,6 +17,10 @@ client.on('message', message => {
     if (message.content === '!ping') {
 
        message.reply('should I say pong?');
+     
+    if (message.content === '!whassaaaaaaaaap?';
+        
+       message.reply('WHASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP?'
 
        }
 
