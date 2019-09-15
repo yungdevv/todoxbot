@@ -1,0 +1,7 @@
+const Discord = require('discord.js');
+const Bot = require ('bot.js');
+
+// The code for the vc join uwu
+voiceChannel.join()
+  .then(connection => console.log('Connected!'))
+  .catch(console.error);
